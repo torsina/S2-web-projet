@@ -1,0 +1,16 @@
+.custom-divider {
+    border-color: var(--own-color-gray);
+    border-width: 2px;
+}
+
+.nav-outer-border {
+    border-color: var(--own-color-gray) !important;
+}
+
+* {
+    --own-color-red1: #D80032;
+    --own-color-red2: #EF233C;
+    --own-color-white: #EDF2F4;
+    --own-color-gray: #8d99AE;
+    --own-color-dark: #2B2D42;
+}
